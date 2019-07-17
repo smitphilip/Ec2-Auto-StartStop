@@ -1,8 +1,10 @@
 import boto3
 
+# Definitions
 region = 'eu-west-1'
 mytag = 'Cust1-SPB'
 ec2 = boto3.client('ec2', region_name=region)
+
 
 def lambda_handler(event, context):
     

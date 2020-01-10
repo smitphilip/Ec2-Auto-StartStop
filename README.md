@@ -3,7 +3,7 @@ AWS Lambda function to start and stop EC2 instances with a specific tag associat
 
 
 # How to deploy
-Full write up of the use-case here: http://how2cloud.blog/2019/04/23/auto-start-and-stop-ec2-instances/
+Full write up of the use-case here: https://how2cloud.quix.co.za/2019/04/tut-auto-start-stop-ec2/
 
 - Create a new python2 lambda function (code inline)
 - Paste the code to the new function
